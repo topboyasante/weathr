@@ -5,6 +5,7 @@
 - TypeScript
 - TailwindCSS
 - ShadcnUI
+- Zustand
 
 ### Setting up:
 - Clone the repo, and install all dependencies using `npm i`
